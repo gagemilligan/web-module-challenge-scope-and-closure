@@ -25,6 +25,9 @@ There are layers upon layers of nested functions within the game of baseball. Yo
 
 ## Instructions
 
+
+
+
 ### Task 1: Set up Project
 
 Using VSCode and Command Line:
